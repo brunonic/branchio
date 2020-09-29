@@ -64,7 +64,7 @@ $link->setChannel('foo')
     ->setAlias('foobar123')
     ->setData([
         '$always_deeplink' => 'true',
-        '$deeplink_path' => 'go-to-user-123'
+        '$deeplink_path' => 'go-to-user-123',
         'user_id' => 123
     ]);
     
